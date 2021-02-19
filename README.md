@@ -1,6 +1,6 @@
-# New Project
+# svelte-typescipt-zen-tailwind-snowpack
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+A creatively named starting point for future projects.
 
 ## Available Scripts
 
