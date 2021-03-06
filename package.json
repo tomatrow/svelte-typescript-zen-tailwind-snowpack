@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "start": "snowpack dev",
+        "dev": "./scripts/snowpack-watch.fish",
         "build": "snowpack build",
         "test": "web-test-runner \"src/**/*.test.ts\""
     },
